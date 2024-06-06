@@ -5,7 +5,7 @@ public class Main {
         
         Convert myTemp = new Convert(23);
 
-        System.out.println("Celcius: " + myTemp.getCelciusValue());
+        System.out.println("Celcius: " + myTemp.getCelciusValue()); 
 
         System.out.println("Kelvin: " + myTemp.toKelvin());
 
